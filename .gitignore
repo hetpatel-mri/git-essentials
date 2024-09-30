@@ -1,0 +1,5 @@
+*.todo
+*.jpg
+*.jpeg
+.env
+*.png
