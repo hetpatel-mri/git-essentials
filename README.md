@@ -1,1 +1,4 @@
 # git-essentials
+
+## Notes
+abxdefghijklmnioqrstuvwxyz
